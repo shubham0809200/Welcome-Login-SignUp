@@ -16,8 +16,8 @@ These pages are developed in flutter
   
 <br><br>
 <img alt="Welcome page" src="assets/Login.png" width="200" /> <span width="80" >.............</span>
-<img alt="Welcome page" src="assets/Login.png" width="200" /> <span width="80" >.............</span>
-<img alt="Welcome page" src="assets/Login.png" width="200" />
+<img alt="Welcome page" src="assets/Signup.png" width="200" /> <span width="80" >.............</span>
+<img alt="Welcome page" src="assets/welcome-screen.png" width="200" />
 </div>
 
 
