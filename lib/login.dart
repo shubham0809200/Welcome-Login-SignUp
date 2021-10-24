@@ -52,16 +52,7 @@ class _MyHomePageLoginState extends State<MyHomePageLogin> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      'Track your',
-                      textAlign: TextAlign.left,
-                      style: TextStyle(
-                        fontFamily: 'proxima',
-                        fontSize: 35.0,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    Text(
-                      'project.',
+                      'Hello \nThere',
                       textAlign: TextAlign.left,
                       style: TextStyle(
                         fontFamily: 'proxima',
@@ -71,7 +62,7 @@ class _MyHomePageLoginState extends State<MyHomePageLogin> {
                     ),
                     SizedBox(height: 20),
                     Text(
-                      'Get live updates',
+                      'Welcome to my app',
                       style: TextStyle(
                         fontFamily: 'proxima',
                         fontSize: 20.0,

@@ -38,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   ),
                   const SizedBox(height: 10),
                   Text(
-                    'Track your project progress',
+                    'Example Login Sign-Up page',
                     style: TextStyle(
                       fontSize: 20.0,
                       fontWeight: FontWeight.w600,
